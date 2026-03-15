@@ -98,6 +98,14 @@ Key variables include:
 
 
 
+**Retention vs Churn**
+
+
+
+!\[Retention vs Churn](retention\_vs\_churn.png)
+
+
+
 **Business Recommendations**
 
 
@@ -127,6 +135,4 @@ contract\_churn.png → Visualization
 payment\_churn.png → Visualization
 
 README.md → Project documentation
-
-
 
