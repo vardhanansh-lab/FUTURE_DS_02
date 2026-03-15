@@ -70,34 +70,6 @@ Key variables include:
 
 
 
-**Visual Analysis**
-
-
-
-**Churn Distribution**
-
-!\[Churn Distribution](https://github.com/vardhanansh-lab/FUTURE\_DS\_02/blob/main/churn\_distribution.png)
-
-
-
-**Churn by Contract Type**
-
-!\[Contract Churn](https://github.com/vardhanansh-lab/FUTURE\_DS\_02/blob/main/contract\_churn.png)
-
-
-
-**Churn by Payment Method**
-
-!\[Payment Method Churn](https://github.com/vardhanansh-lab/FUTURE\_DS\_02/blob/main/payment\_churn.png)
-
-
-
-**Retention vs Churn**
-
-!\[Retention vs Churn](https://github.com/vardhanansh-lab/FUTURE\_DS\_02/blob/main/retention\_vs\_churn.png)
-
-
-
 **Business Recommendations**
 
 
