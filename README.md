@@ -76,33 +76,25 @@ Key variables include:
 
 **Churn Distribution**
 
-
-
-!\[Churn Distribution](churn\_distribution.png)
+!\[Churn Distribution](./churn\_distribution.png)
 
 
 
 **Churn by Contract Type**
 
-
-
-!\[Contract Churn](contract\_churn.png)
+!\[Contract Churn](./contract\_churn.png)
 
 
 
 **Churn by Payment Method**
 
-
-
-!\[Payment Method Churn](payment\_churn.png)
+!\[Payment Method Churn](./payment\_churn.png)
 
 
 
 **Retention vs Churn**
 
-
-
-!\[Retention vs Churn](retention\_vs\_churn.png)
+!\[Retention vs Churn](./retention\_vs\_churn.png)
 
 
 
